@@ -1,5 +1,5 @@
 
-import bottomLogo from "../../assets/whiteLogo.png";
+import bottomLogo from "../../assets/logo.svg";
 import { RiFacebookFill } from "react-icons/ri";
 import { IoLogoInstagram } from "react-icons/io5";
 import { FaYoutube } from "react-icons/fa";
