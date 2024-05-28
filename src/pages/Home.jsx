@@ -1,17 +1,13 @@
 import React from 'react'
-import Header from '../components/Header'
 import NewProject from '../components/NewProject'
-import WhyChoose from '../components/WhyChoose'
-import About from '../components/About'
 import Brands from '../components/Brands'
+import VideoShot from '../components/VideoShot'
 
 const Home = () => {
   return (
     <>
-        <Header/>
+        <VideoShot/>
         <NewProject/>
-        <WhyChoose/>
-        <About/>
         <Brands/>
     </>
   )

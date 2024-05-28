@@ -2,7 +2,7 @@ import React from 'react'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import Home from '../pages/Home'
 import Navbar from '../components/globle/Navbar'
-import Footer from '../components/Footer'
+import Footer from '../components/globle/Footer'
 import FooterContact from '../components/globle/FooterContact'
 
 const Layout = () => {
