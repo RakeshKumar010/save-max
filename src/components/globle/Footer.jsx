@@ -1,5 +1,5 @@
 
-import bottomLogo from "../../assets/logo.svg";
+import bottomLogo from "../../assets/logo.png";
 import { RiFacebookFill } from "react-icons/ri";
 import { IoLogoInstagram } from "react-icons/io5";
 import { FaYoutube } from "react-icons/fa";
@@ -17,7 +17,7 @@ const Footer = () => {
               ABOUT GODREJ PROPERTIES
             </h6>
             <p className="text-gray-500 text-sm">
-              Established in 1990, Godrej P className="bg-gray-500"roperties is
+              Established in 1990, Godrej Properties is
               the first real estate company to have ISO certification. The
               company is currently developing landmark projects in 12 cities
               across India covering over 18.58 million square meters. Godrej
