@@ -16,7 +16,7 @@ export const data =[
     },
     {
         img:Project2,
-        launch:'Ongoing',
+        launch:'On Going',
         price:'₹ 75 Lacs - 2.11 Cr',
         title:'Shapoorji Pallonji',
         location:'Mahalunge - Near Bavdhan, Pune',
