@@ -18,11 +18,11 @@ export const data =[
         img:Project2,
         launch:'Ongoing',
         price:'₹ 75 Lacs - 2.11 Cr',
-        title:'VTP Earth On',
-        location:'Mahalunge - Pune',
-        size:'2 - 3 - 4 BHK',
+        title:'Shapoorji Pallonji',
+        location:'Mahalunge - Near Bavdhan, Pune',
+        size:'1, 2 & 3 BHK',
         sqrt:'650 - 1800 Sqft',
-        link:null
+        link:'https://shapoorji.vercel.app/'
     },
     {
         img:Project3,

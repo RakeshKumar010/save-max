@@ -17,7 +17,7 @@ const NewProject = () => {
             <div className="shadow-xl rounded-lg md:w-96 w-full">
               <Link to={value.link} target={value.link?"_blank":"_self"}
                 style={{
-                  background: `url(${value.img}) `,
+                  background: `url(${value.img}) center`,
                   backgroundRepeat: "no-repeat",
                   backgroundSize: "cover",
                   boxShadow: '0 -50px 20px #21212db8 inset',

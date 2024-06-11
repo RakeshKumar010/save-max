@@ -1,16 +1,16 @@
-import React from 'react'
-import NewProject from '../components/NewProject'
-import Brands from '../components/Brands'
-import VideoShot from '../components/VideoShot'
+import React from "react";
+import NewProject from "../components/NewProject";
+import Brands from "../components/Brands";
+import VideoShot from "../components/VideoShot";
 
 const Home = () => {
   return (
     <>
-        <VideoShot/>
-        <NewProject/>
-        <Brands/>
+      <VideoShot />
+      <NewProject />
+      <Brands />
     </>
-  )
-}
+  );
+};
 
-export default Home
+export default Home;
